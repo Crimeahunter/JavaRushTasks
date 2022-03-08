@@ -34,4 +34,19 @@ public class TaskAnswer5 {
         dog.owner = woman;
         fish.owner = woman;//каждому животному дан собственник
     }
+
+    private static class Cat {
+        public Woman owner;
+    }
+
+    private static class Dog {
+        public Woman owner;
+    }
+
+    private static class Fish {
+        public Woman owner;
+    }
+
+    private static class Woman {
+    }
 }

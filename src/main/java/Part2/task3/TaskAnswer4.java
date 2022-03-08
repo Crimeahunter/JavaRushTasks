@@ -13,4 +13,10 @@ public class TaskAnswer4 {
         System.out.println("«Мне так плохо! Хочу, чтобы все умерли!».");
 
     }
+
+    private static class Cat {
+    }
+
+    private static class Dog {
+    }
 }
